@@ -18,11 +18,23 @@ footer {
 }
 
 main {
-  min-height: 60vh;
+  /* min-height: 60vh; */
+  min-height: calc(100vh - 150px);
   /* color: orange; */
   /* background-color: black; */
 }
 
 a {
   color: orange;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+li {
+  display: inline-block;
+  margin: 1rem;
 }
