@@ -1,8 +1,9 @@
 import React from "react";
 import "./App.css";
+import Layout from "./pages/Layout.js";
 
 function App() {
-  return <div>App will be here</div>;
+  return <Layout />;
 }
 
 export default App;
