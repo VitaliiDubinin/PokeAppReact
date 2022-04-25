@@ -1,7 +1,7 @@
 import React from "react";
 
 const FavList = () => {
-  return <div>About</div>;
+  return <div>FavList</div>;
 };
 
 export default FavList;

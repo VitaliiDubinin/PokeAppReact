@@ -18,5 +18,11 @@ footer {
 }
 
 main {
-  min-height: 70vh;
+  min-height: 60vh;
+  /* color: orange; */
+  /* background-color: black; */
+}
+
+a {
+  color: orange;
 }
